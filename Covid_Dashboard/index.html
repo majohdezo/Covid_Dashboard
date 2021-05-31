@@ -1,0 +1,124 @@
+<!-- 
+
+    Adapted from Mike Bostock at bl.ocks.org
+    https://bl.ocks.org/mbostock/5682158
+
+ -->
+
+ <!DOCTYPE html>
+ <head>
+     <meta charset="utf-8">
+     <meta name="description" content="">
+     <title>Covid Dashboard</title>
+     <!-- Bootstrap Core CSS -->
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <!-- Custom CSS -->
+     <link rel="stylesheet" href="css/style.css">
+     <script src="js/d3-tip.js"></script>
+     <style>
+        h1 {
+          text-align: center;
+          font-family: 'Trebuchet MS'; 
+        }
+        .col-md-11{
+            left: 520px;
+            font-family: 'Trebuchet MS'; 
+
+        }
+        .col-md-1{
+            left: 250px;
+            font-family: 'Trebuchet MS'; 
+        }
+        .col-md-2{
+            left: 100px;
+            font-family: 'Trebuchet MS'; 
+        }
+        .col-md-3{
+            left: 100px;
+            font-family: 'Trebuchet MS'; 
+        }
+        .col-md-4{
+            left: 100px;
+            font-family: 'Trebuchet MS'; 
+        }
+        
+        </style>
+ </head>
+ <body style="background-color: #e6e7e8;">
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <a class="navbar-brand" href="#"><img id="logo" src="img/LogoUP.png" ></a>   
+        </div>
+    </nav>
+
+    <h1>Datos Covid México 2020</h1>
+ 
+     <!-- Bootstrap grid setup -->
+     
+ 
+     <div class="container">
+         <div class="row">
+             <div class="col-md-2" >
+                 <div id="chart-area3"></div>                  
+             </div>
+         </div>
+     </div>
+
+
+     <div class="container">
+        <div class="row">
+            <div class="col-md-11">
+                <form>         </form>
+            </div>
+         </div>
+         <br>
+         <br>
+          <div class="row">
+            <div class="col-md-1">
+                <div id="chart-area"></div>                            
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ 
+     <div class="container">
+         <div class="row">
+             <div class="col-md-3">
+                 <div id="chart-area4"></div>                  
+             </div>
+         </div>
+     </div>
+
+     <br>
+     <br>
+    <br>
+    <br>
+    <br>
+ 
+     <div class="container">
+         <div class="row">
+             <div class="col-md-4">
+                 <div id="chart-area2"></div>                  
+             </div>
+         </div>
+     </div>
+
+     <br>
+     <br>
+ 
+ <!-- External JS libraries -->
+ <script src="js/jquery.min.js"></script>
+ <script src="js/bootstrap.min.js"></script>
+ <script src="js/d3.min.js"></script>
+ <script src="js/jquery-ui.min.js"></script>
+ <script src="js/d3-tip.js"></script>
+ <!-- Custom JS -->
+ <script src="js/main.js"></script>
+ 
+ </body>
