@@ -35,13 +35,13 @@ You need to run a local server.
 
 Open the local server and click on the `Covid_Dashboard` folder. There you will be able to see the visualize the data of the Covid cases in Mexico during 2020.
 
-![image] (https://github.com/majohdezo/ConwayGoL/blob/master/Files/GoL_Sim.gif)
+![image](https://github.com/majohdezo/Covid_Dashboard/blob/main/Gif/Chart1.gif)
 
-![image] (https://github.com/majohdezo/ConwayGoL/blob/master/Files/GoL_Sim.gif)
+![image](https://github.com/majohdezo/Covid_Dashboard/blob/main/Gif/Chart2.gif)
 
-![image] (https://github.com/majohdezo/ConwayGoL/blob/master/Files/GoL_Sim.gif)
+![image](https://github.com/majohdezo/Covid_Dashboard/blob/main/Gif/Chart3.gif)
 
-![image] (https://github.com/majohdezo/ConwayGoL/blob/master/Files/GoL_Sim.gif)
+![image](https://github.com/majohdezo/Covid_Dashboard/blob/main/Gif/Chart4.gif)
 
 
 ## References:
