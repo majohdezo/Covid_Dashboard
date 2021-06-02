@@ -45,4 +45,4 @@ Open the local server and click on the `Covid_Dashboard` folder. There you will 
 
 
 ## References:
-This code was based on this [repo] (https://github.com/gcastillo56/com139-class/tree/master/COVID) 
+This code was based on this [repo](https://github.com/gcastillo56/com139-class/tree/master/COVID) 
