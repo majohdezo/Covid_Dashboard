@@ -4,9 +4,9 @@ Data visualization is the graphical representation of information and data. By u
 
 It is very important to collect good information in order to build these charts. If we don´t gather the proper information, we won´t be able to have useful charts that represent meaningful information.
 
-This repo presents information previously filtered, on graphs you can access and see the different graphs of Covid cases in Mexico during 2020.
+This repo presents information previously filtered on graphs which you can access and see the different information of Covid cases in Mexico during 2020.
 
-This repo is divided into 2 parts. The first part belongs to the data filtering, where you can see the information and create your own JSON files to make your graphs.
+This repo is divided into 2 parts. The first part belongs to the data filtering, where the information can be used to to create your own JSON files and make your graphs.
 
 The second part belongs to data visualization of the information previously filtered.
 
@@ -33,7 +33,7 @@ Go to the `filter.py` file on the `DataFilter` folder. This file allows you to f
 You need to run a local server. 
 
 
-Open the local server and click on the `Covid_Dashboard` folder. There you will be able to see the visualize the data of the Covid cases in Mexico during 2020.
+Open the local server and click on the `Covid_Dashboard` folder. There you will be able to visualize the data of the Covid cases in Mexico during 2020.
 
 ![image](https://github.com/majohdezo/Covid_Dashboard/blob/main/Gif/Chart1.gif)
 
